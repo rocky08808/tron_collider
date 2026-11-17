@@ -1,0 +1,7 @@
+{
+  "tg_delay": 0.05,
+  "tg_max": 300000,
+  "tg_out": "data/usdt_top300000.csv",
+  "scan_bloom": "data/usdt_top300000.bloom",
+  "scan_csv": "data/usdt_top300000.csv"
+}

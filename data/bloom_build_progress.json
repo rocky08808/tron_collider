@@ -1,0 +1,13 @@
+{
+  "updated_at": 1793806933.1554012,
+  "percent": 100.0,
+  "status": "completed",
+  "job": "bloom-build",
+  "current": 300000,
+  "target": 300000,
+  "message": "构建完成",
+  "input": "data\\usdt_top300000.csv",
+  "output": "data\\usdt_top300000.bloom",
+  "unique_addresses": 300000,
+  "file_bytes": 539177
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "output": "C:\\Users\\rocky\\Desktop\\ME\\tron_collider\\data\\usdt_top200000.csv",
+  "max_holders": 300000,
+  "min_balance_usdt": 0.0,
+  "fingerprint": "z3GFEcH7Uz2ck3yWFV7uNrAoB51aJrJVPtqtttuh19q44momv8GVTrE5dHwwDsbdbGDQhEDUZS5ZLS3Dw6wxkxy",
+  "page": 68,
+  "row_count": 200000,
+  "phase": "skip",
+  "updated_at": 1793635886.6391895,
+  "skip_index": 1,
+  "rebuild_matched": 1
+}

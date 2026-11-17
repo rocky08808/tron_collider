@@ -1,0 +1,20 @@
+{
+  "status": "stopped",
+  "updated_at": 1793309633.8126125,
+  "pid": 39208,
+  "elapsed_sec": 8532.48,
+  "rate_per_sec": 2188.7,
+  "total_tried": 896733500,
+  "session_base_tried": 878058400,
+  "tried": 18675100,
+  "bloom_hits": 18644,
+  "exact_hits": 0,
+  "network_ok": 0,
+  "bloom_fp": 18644,
+  "workers": 19,
+  "batch_size": 100,
+  "max_keys": 0,
+  "words": 12,
+  "derivation_path": "m/44'/195'/0'/0/0",
+  "message": "统计长时间未更新（进程可能已退出或卡住）"
+}

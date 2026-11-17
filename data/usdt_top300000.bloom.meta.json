@@ -1,0 +1,8 @@
+{
+  "source_csv": "C:\\Users\\rocky\\Desktop\\ME\\tron_collider\\data\\usdt_top300000.csv",
+  "unique_addresses": 300000,
+  "error_rate_target": 0.001,
+  "m_bits": 4313277,
+  "k_hashes": 10,
+  "file_bytes": 539177
+}

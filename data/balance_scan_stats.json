@@ -1,0 +1,17 @@
+{
+  "status": "stopped",
+  "updated_at": 1793635634.4306421,
+  "pid": 10172,
+  "elapsed_sec": 336.27,
+  "rate_per_sec": 2.81,
+  "total_tried": 945,
+  "session_base_tried": 0,
+  "tried": 945,
+  "balance_hits": 0,
+  "network_errors": 0,
+  "rate_limited": 0,
+  "backend": "trongrid",
+  "asset": "any",
+  "request_delay_ms": 0.0,
+  "max_keys": 0
+}

@@ -1,0 +1,17 @@
+{
+  "status": "running",
+  "updated_at": 1794585716.0835757,
+  "pid": 39320,
+  "elapsed_sec": 32347.97,
+  "rate_per_sec": 34995.1,
+  "total_tried": 50558468000,
+  "session_base_tried": 49426448000,
+  "tried": 1132020000,
+  "bloom_hits": 1132516,
+  "exact_hits": 0,
+  "network_ok": 0,
+  "bloom_fp": 1132516,
+  "workers": 19,
+  "batch_size": 2000,
+  "max_keys": 0
+}

@@ -1,0 +1,12 @@
+{
+  "updated_at": 1792449150.9064374,
+  "percent": 100.0,
+  "status": "completed",
+  "job": "trongrid-usdt",
+  "current": 1000,
+  "target": 1000,
+  "fetched_rows": 1000,
+  "min_balance_usdt": 0.0,
+  "output": "data\\_test_fresh.csv",
+  "message": "完成（complete）"
+}
