@@ -74,8 +74,16 @@ def main() -> None:
         str(port),
     ]
     print(f"启动 UI: http://localhost:{port}", file=sys.stderr)
-    raise SystemExit(subprocess.call(cmd))
+    try:
+        raise SystemExit(subprocess.call(cmd))
+    except KeyboardInterrupt:
+        print("\n已停止 UI（Ctrl+C）", file=sys.stderr)
+        raise SystemExit(0)
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("\n已停止 UI（Ctrl+C）", file=sys.stderr)
+        raise SystemExit(0)
